@@ -1,0 +1,124 @@
+
+body {
+  margin: 0;
+  background-color: #17182f;
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+
+
+.backround{
+  background-image: url("bg.jpg") ;
+  margin: 0px;
+  top: 190px;
+  left: 50px;
+  position: absolute;
+  height: 300px;
+  width: 300px;
+}
+
+.form{
+  background-image: url("pic3.jpg") ;
+  margin: 0px;
+  top: 0px;
+  left: 400px;
+  position: absolute;
+  height: 600px;
+  width: 450px;
+}
+
+.h1{
+  margin: 0px;
+  font-family: "Roboto";
+  font-weight: 800;s
+  float: left;
+  font-size: 30px;
+  font-color: black;
+  top: 10px;
+  left: 520px;
+  position: absolute;
+  height: 20px;
+  width: 90px;
+}
+
+
+
+.form {
+  background:rgba($form-bg,.9);
+  padding: 40px;
+  max-width:600px;
+  margin:40px auto;
+  border-radius:$br;
+  box-shadow:0 4px 10px 4px rgba($form-bg,.3);
+}
+
+
+.name{
+  margin: 0px;
+  font-family: "Roboto";
+  float: left;
+  font-size: 20px;
+  font-color: black;
+  top: 80px;
+  left: 420px;
+  position: absolute;
+  height: 20px;
+  width: 90px;
+}
+
+.lastname{
+  margin: 0px;
+  font-family: "Roboto";
+  float: left;
+  font-size: 20px;
+  font-color: black;
+  top: 120px;
+  left: 420px;
+  position: absolute;
+  height: 20px;
+  width: 90px;
+}
+
+.email{
+  margin: 0px;
+  font-family: "Roboto";
+  float: left;
+  font-size: 20px;
+  font-color: black;
+  top: 160px;
+  left: 420px;
+  position: absolute;
+  height: 20px;
+  width: 90px;
+}
+
+.password{
+  margin: 0px;
+  font-family: "Roboto";
+  float: left;
+  font-size: 20px;
+  font-color: black;
+  top: 200px;
+  left: 420px;
+  position: absolute;
+  height: 20px;
+  width: 90px;
+}
+
+.button{
+  margin: 0px;
+  size: 40px;
+  font-family: "Roboto";
+  float: left;
+  font-size: 10px;
+  font-color: black;
+  top: 500px;
+  left: 420px;
+  position: absolute;
+  height: 20px;
+  width: 90px;
+}
